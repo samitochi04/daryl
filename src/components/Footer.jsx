@@ -22,10 +22,8 @@ const Footer = () => {
   }
 
   const socialLinks = [
-    { icon: FiLinkedin, url: 'https://linkedin.com/in/daryl', label: 'LinkedIn' },
-    { icon: FiInstagram, url: 'https://instagram.com/daryl', label: 'Instagram' },
-    { icon: FiGithub, url: 'https://github.com/daryl', label: 'GitHub' },
-    { icon: FiMail, url: 'mailto:contact@daryl.com', label: 'Email' }
+    { icon: FiInstagram, url: 'https://instagram.com/darylbusinessdev', label: 'Instagram' },
+    { icon: FiMail, url: 'mailto:temmo@daryl.com', label: 'Email' }
   ]
 
   return (

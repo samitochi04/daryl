@@ -71,19 +71,13 @@ const Contact = () => {
       icon: FiMail,
       title: 'Email',
       value: 'contact@daryl.com',
-      link: 'mailto:contact@daryl.com'
-    },
-    {
-      icon: FiLinkedin,
-      title: 'LinkedIn',
-      value: 'Connectez-vous avec nous',
-      link: 'https://linkedin.com/in/daryl'
+      link: 'mailto:temmodaryl317@gmail.com'
     },
     {
       icon: FiInstagram,
       title: 'Instagram',
       value: '@daryl',
-      link: 'https://instagram.com/daryl'
+      link: 'https://instagram.com/darylbusinessdev'
     },
     {
       icon: FiMapPin,
